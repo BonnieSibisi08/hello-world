@@ -1,0 +1,14 @@
+.brand-logo {
+    width: 50px; /* Adjust the width value to make the logo smaller */
+    height: auto; /* Maintain the aspect ratio */
+  }
+
+  .brand-name {
+    color: purple; /* Change font color to purple */
+    font-size: 30px;
+    display: flex;
+  align-items: flex-start;
+  }
+  
+  
+  
